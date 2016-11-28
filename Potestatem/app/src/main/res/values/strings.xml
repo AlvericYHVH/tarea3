@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Potestatem</string>
+    <string name="title_activity_bienvenida">Bienvenida</string>
+    <string name="title_name">WELCOME</string>
+    <string name="login_button">Log In</string>
+
+</resources>

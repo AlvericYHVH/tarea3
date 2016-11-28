@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">قوة</string>
+    <string name="title_activity_bienvenida">ترحيب</string>
+    <string name="title_name">ترحيب</string>
+    <string name="login_button">تسجيل الدخول</string>
+
+</resources>

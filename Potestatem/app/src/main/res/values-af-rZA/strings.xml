@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">krag</string>
+    <string name="title_activity_bienvenida">welkom</string>
+    <string name="title_name">welkom</string>
+    <string name="login_button">Teken aan</string>
+
+</resources>
